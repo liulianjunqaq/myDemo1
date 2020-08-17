@@ -5,9 +5,12 @@
 export default {
     data(){
         return {
-            lla:''
+            lla:'',
+            asd:'',
+            agdfg:''
         }
-    }
+    },
+    methods:{}
 }
 </script>
 <style lang="less" scoped>
